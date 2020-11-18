@@ -1,0 +1,5 @@
+(1) 공작눈: peacock_eyes
+(2) 도화눈: Drawing_eyes (맞는건지..?ㅋㅋㅋㅋ)
+(3) 소눈: cow_eyes
+(4) 용눈: dragon_eyes
+(5) 호랑이눈: tiger_eyes
